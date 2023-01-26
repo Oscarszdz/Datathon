@@ -93,4 +93,5 @@ Se proveen los siguientes archivos en formato parquet:
 - state: Código del estado al que pertenece la propiedad.
 ​
 ## Notas
-- Para detalles del código e implementación, consulte [Notebook]().
+- Para detalles del código e implementación, consulte [Notebook](https://github.com/Oscarszdz/Datathon/blob/main/Datathon_PI02.ipynb).
+- Dentro de la carpeta [Supervisado]() y [No_supervisado](), encontrará, los archivos en formato `.csv`, con los valores predichos correspondientemente.
