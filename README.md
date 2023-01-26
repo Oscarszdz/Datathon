@@ -94,4 +94,4 @@ Se proveen los siguientes archivos en formato parquet:
 ​
 ## Notas
 - Para detalles del código e implementación, consulte [Notebook](https://github.com/Oscarszdz/Datathon/blob/main/Datathon_PI02.ipynb).
-- Dentro de la carpeta [Supervisado]() y [No_supervisado](), encontrará, los archivos en formato `.csv`, con los valores predichos correspondientemente.
+- Dentro de la carpeta [Supervisado](https://github.com/Oscarszdz/Datathon/tree/main/Supervisado) y [No_supervisado](https://github.com/Oscarszdz/Datathon/tree/main/No_supervisado), encontrará, los archivos en formato `.csv`, con los valores predichos correspondientemente.
